@@ -1,6 +1,6 @@
 # Death Zone Visualizer
 
-[![MelonLoader/BepInEx](https://img.shields.io/badge/Platform-MelonLoader%20%2F%20BepInEx-blue)](https://github.com/LavaGang/MelonLoader)
+[![MelonLoader](https://github.com/LavaGang/MelonLoader)
 [![Version](https://img.shields.io/badge/Version-1.4.0-brightgreen)]()
 
 **Death Zone Visualizer** is a powerful utility mod designed to help players identify, analyze, and visualize death zones within the game. Whether you are a speedrunner, a mapper, or just curious about level boundaries, this tool provides real-time rendering of death zones with a fully customizable interface.
@@ -16,7 +16,7 @@
 
 ## 🛠️ Installation
 
-1.  Ensure you have **MelonLoader** or **BepInEx** installed for your game.
+1.  Ensure you have **MelonLoader** installed for your game.
 2.  Download the latest `.dll` release from the [Releases page](https://github.com/w3ntr/RunPro-DeathZoneVisualizer/releases)
 3.  Place the downloaded `.dll` file into your game's `Mods` folder.
 4.  Launch the game. The mod will load automatically.
