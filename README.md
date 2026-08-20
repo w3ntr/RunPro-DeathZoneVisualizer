@@ -47,4 +47,4 @@ The in-game menu allows you to modify the following on the fly:
 *   Migrated to BepInEx/MelonLoader standardized structure.
 
 ---
-*Created by [Your Name/Handle].*
+*Created by w3ntr.*
