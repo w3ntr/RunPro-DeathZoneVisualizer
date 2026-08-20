@@ -17,7 +17,7 @@
 ## 🛠️ Installation
 
 1.  Ensure you have **MelonLoader** or **BepInEx** installed for your game.
-2.  Download the latest `.dll` release from the https://github.com/w3ntr/RunPro-DeathZoneVisualizer/releases
+2.  Download the latest `.dll` release from the [Releases page](https://github.com/w3ntr/RunPro-DeathZoneVisualizer/releases)
 3.  Place the downloaded `.dll` file into your game's `Mods` folder.
 4.  Launch the game. The mod will load automatically.
 
