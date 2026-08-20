@@ -1,3 +1,4 @@
+![Icon](icon.png)
 # Death Zone Visualizer
 
 [![Platform](https://img.shields.io/badge/Platform-MelonLoader-00aaff)](https://github.com/LavaGang/MelonLoader)
@@ -15,7 +16,7 @@
 *   **Lightweight**: Minimal performance impact.
 
 ## 📸 Screenshots
-![Death Zone Visualizer in Action](assets/screenshot1.png)
+![Death Zone Visualizer in Action](Screenshot_1.png)
 
 ## 🛠️ Installation
 
