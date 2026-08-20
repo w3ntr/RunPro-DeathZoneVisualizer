@@ -1,6 +1,6 @@
 # Death Zone Visualizer
 
-[![MelonLoader](https://github.com/LavaGang/MelonLoader)
+[![MelonLoader](https://img.shields.io/badge/Platform-MelonLoader)](https://github.com/LavaGang/MelonLoader)
 [![Version](https://img.shields.io/badge/Version-1.4.0-brightgreen)]()
 
 **Death Zone Visualizer** is a powerful utility mod designed to help players identify, analyze, and visualize death zones within the game. Whether you are a speedrunner, a mapper, or just curious about level boundaries, this tool provides real-time rendering of death zones with a fully customizable interface.
