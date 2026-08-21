@@ -17,6 +17,7 @@
 
 ## 📸 Screenshots
 ![Death Zone Visualizer in Action](Screenshot_1.png)
+![Death Zone Visualizer in Action](screenshot_3.png)
 
 ## 🛠️ Installation
 
