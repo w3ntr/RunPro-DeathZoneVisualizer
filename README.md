@@ -16,8 +16,11 @@
 *   **Lightweight**: Minimal performance impact.
 
 ## 📸 Screenshots
+![Death Zone Visualizer in Action](screenshot_with_clearhud.png)
 ![Death Zone Visualizer in Action](Screenshot_1.png)
+![Death Zone Visualizer in Action](screenshot_4.png)
 ![Death Zone Visualizer in Action](screenshot_3.png)
+![Death Zone Visualizer in Action](screenshot_2.png)
 
 ## 🛠️ Installation
 
